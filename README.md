@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<# 💫 About Me:
 ## 🚀 About Me<br><br>💻 I'm currently working on  <br>End-to-end Data Analytics projects (Data Cleaning → Analysis → Dashboarding)<br><br>🤝 I'm looking to collaborate on  <br>Data Analytics / Data Engineering projects and internships  <br><br>🧠 I'm looking for help with  <br>Building scalable data pipelines and real-time data processing  <br><br>🌱 I'm currently learning  <br>Python for Data Engineering, AWS, and ETL pipelines  <br><br>💬 Ask me about  <br>Excel, SQL, Power BI, and data-driven problem solving  <br><br>⚡ Fun fact  <br>I enjoy solving business problems using data more than anything else  
 
 
